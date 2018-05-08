@@ -1,0 +1,1 @@
+<img src="{{ URL('seven/captcha/1') }}"  alt="验证码" title="刷新图片" width="100" height="40" id="c2c98f0de5a04167a9e427d883690ff6" border="0"> <span> <a id="change" href="javascript:;" code_src=""> 换一张</a></span> </div>
